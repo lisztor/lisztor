@@ -6,5 +6,5 @@
 - Passing most of my time making my dotfiles
 - Vim 🤍
 - I know music too
+![image](https://github.com/user-attachments/assets/20b224b1-67f2-4338-9774-97e5d382969d)
 --------------------------------------------
-![image](https://github.com/user-attachments/assets/6bfb8bb0-f80d-460b-8e3f-f578f685bd4a)

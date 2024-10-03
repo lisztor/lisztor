@@ -2,7 +2,7 @@
 --------------------------------------------
 - I'm lisztor
 - C and C++ dev
-- Java lover
+- Learning Pentesting
 - Passing most of my time making my dotfiles
 - Vim
 - I know music too

@@ -51,7 +51,7 @@ I'm `lisztor`, I'm on my way to becoming a **Cybersecurity Specialists** or a **
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats</h2>
+<h2 id="github_stats" align='center'>GitHub Stats</h2>
 <img align="center" width="44%" src="![image](https://github.com/user-attachments/assets/531d18e0-a642-4b0e-90cf-a677f9385688)"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisztor&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/lisztor/github-readme-stats)

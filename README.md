@@ -52,9 +52,9 @@ I'm `lisztor`, I'm on my way to becoming a **Cybersecurity Specialists** or a **
 
 
 <h2 id="github_stats" align=''>GitHub Stats</h2>
-<img align="right" width="44%" src="![image](https://github.com/user-attachments/assets/531d18e0-a642-4b0e-90cf-a677f9385688)"/>
+<img align="center" width="44%" src="![image](https://github.com/user-attachments/assets/531d18e0-a642-4b0e-90cf-a677f9385688)"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisztor&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisztor&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/lisztor/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=lisztor&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
 
 

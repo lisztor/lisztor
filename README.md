@@ -19,7 +19,6 @@ I'm `lisztor`, I'm on my way to becoming a **Cybersecurity Specialists** or a **
 
 - **Name**: lisztor
 - **From**: France
-- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
 - Reach me out at **lisztorpro@gmail.com**

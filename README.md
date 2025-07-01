@@ -6,7 +6,7 @@
 
 
 <h2 align="left">
-  Hi there
+  Meow 😼
   <img src="(https://www.shareicon.net/download/2015/09/18/102854_archlinux_512x512.png)" width="25px"/>
 </h2>
 
